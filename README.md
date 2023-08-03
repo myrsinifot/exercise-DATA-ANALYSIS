@@ -1,4 +1,4 @@
 # exercise-DATA-ANALYSIS
 *An example of a repository*
-διαθέσιμο στο λινκ {(README.md)} 
+διαθέσιμο στο λινκ {(https://github.com/myrsinifot/exercise-DATA-ANALYSIS/blob/1ddd15f03593b152942b0cd57085d889afa56105/README.md)} 
 THE END
